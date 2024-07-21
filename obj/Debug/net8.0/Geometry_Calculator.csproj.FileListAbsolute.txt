@@ -1,0 +1,14 @@
+D:\Apps\Geometry_Calculator\bin\Debug\net8.0\Geometry_Calculator.exe
+D:\Apps\Geometry_Calculator\bin\Debug\net8.0\Geometry_Calculator.deps.json
+D:\Apps\Geometry_Calculator\bin\Debug\net8.0\Geometry_Calculator.runtimeconfig.json
+D:\Apps\Geometry_Calculator\bin\Debug\net8.0\Geometry_Calculator.dll
+D:\Apps\Geometry_Calculator\bin\Debug\net8.0\Geometry_Calculator.pdb
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.AssemblyInfoInputs.cache
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.AssemblyInfo.cs
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.csproj.CoreCompileInputs.cache
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.dll
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\refint\Geometry_Calculator.dll
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.pdb
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\Geometry_Calculator.genruntimeconfig.cache
+D:\Apps\Geometry_Calculator\obj\Debug\net8.0\ref\Geometry_Calculator.dll
